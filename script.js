@@ -11,3 +11,4 @@ min.innerHTML = (currentTime.getMinutes() < 10 ? "0":"") + currentTime.getMinute
 sec.innerHTML = (currentTime.getSeconds() < 10 ? "0":"") + currentTime.getSeconds();
 
 },1000);
+:
